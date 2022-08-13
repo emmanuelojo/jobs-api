@@ -17,10 +17,11 @@
   },
   "homepage": "https://github.com/emmanuelojo/jobs-api#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "heroku": "^7.62.0",
     "json-server": "^0.17.0"
   },
-  "engines":{
+  "engines": {
     "node": "16.15.1"
   }
 }
