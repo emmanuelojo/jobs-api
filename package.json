@@ -1,0 +1,22 @@
+{
+  "name": "jobs-api",
+  "description": "",
+  "version": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nide server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuelojo/jobs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuelojo/jobs-api/issues"
+  },
+  "homepage": "https://github.com/emmanuelojo/jobs-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

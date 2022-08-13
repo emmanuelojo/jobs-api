@@ -1,0 +1,214 @@
+{
+    "jobs":[
+        {
+            "id": 1,
+            "comapny": {
+                "name": "Google",
+                "city": "New York",
+                "state":"TX",
+                "country": "USA",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "google@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 2,
+            "comapny": {
+                "name": "Microsoft",
+                "city": "London",
+                "state":"London",
+                "country": "England",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "microsoft@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 3,
+            "comapny": {
+                "name": "Apple",
+                "city": "Amsterdam",
+                "state":"Amsterdam",
+                "country": "Netherlands",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "apple@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 4,
+            "comapny": {
+                "name": "Amazon",
+                "city": "New York",
+                "state":"TX",
+                "country": "USA",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "google@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 5,
+            "comapny": {
+                "name": "Tesla",
+                "city": "New York",
+                "state":"TX",
+                "country": "USA",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "google@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 6,
+            "comapny": {
+                "name": "Facebook",
+                "city": "New York",
+                "state":"TX",
+                "country": "USA",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "google@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 7,
+            "comapny": {
+                "name": "Netflix",
+                "city": "New York",
+                "state":"TX",
+                "country": "USA",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "google@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 8,
+            "comapny": {
+                "name": "GTBank",
+                "city": "Lagos",
+                "state":"Lagos",
+                "country": "Nigeria",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "gtbank@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 9,
+            "comapny": {
+                "name": "JP Morgan",
+                "city": "New York",
+                "state":"TX",
+                "country": "USA",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "jpmorgan@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        },
+        {
+            "id": 10,
+            "comapny": {
+                "name": "Utiva",
+                "city": "Abuja",
+                "state":"FCT",
+                "country": "Nigeria",
+                "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F53%2FGoogle_%2522G%2522_Logo.svg%2F1200px-Google_%2522G%2522_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGoogle_%2522G%2522_Logo.svg&tbnid=haFDMvF5z4P5aM&vet=12ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ..i&docid=zyZ-ciwRabX18M&w=1200&h=1200&q=google%20logo&ved=2ahUKEwjEgt-KxcP5AhUahc4BHXXPDm4QMygEegUIARDpAQ",
+                "email": "utiva@mail.com"
+            },
+            "title": "Software Developer",
+            "description": "Kasisto's Digital Experience Platform, KAI, is designed for financial institutions to deliver the industry's most amazing Conversational AI powered intelligent virtual assistants to their customers. KAI is open and extensible, and also fluent in the language of banking and finance. From simple retail transactions to the complex demands of corporate banks and wealth management, financial institutions can deliver meaningful digital interactions with KAI that help build their digital brand. /n Financial institutions around the world use KAI, including DBS Bank, J.P. Morgan, Mastercard, Standard Chartered, TD Bank, and Manulife Bank among others. They chose KAI for its proven track record to drive business results while improving customer experiences. The platform is used by millions of consumers around the world, all the time, across multiple channels, in different languages, and is optimized for performance, scalability, security, and compliance. /n This position /n We are looking for a Full-Stack, client side software engineer to help build and integrate responsive chat interfaces, analytics dashboards and reporting tools. /n What you'll be doing /n Working closely with clients and internal engineering, product and design teams to gather requirements Building and integrating front-end applications with CSS, HTML, Javascript, jQuery, Vue.js, Webpack, Handlebars.js, LESS, Backbone, Python, Django and Java Working to improve user experience and functionality for tools Writing testable code utilizing common front-end unit and BDD testing frameworks What you need for this position /n 3+ years in client-side web development with CSS, HTML, Javascript and jQuery Proven, full-stack front-end experience using Python and Django Other Modern Web Framework(s) experience is a plus (React, Vue, Angular, Ember) Experience working collaboratively to build scalable, modular, production software in an Agile environment Experience using RESTful json services Node.js and API development familiarity is plus D3.js is a plus /n What we offer: /n Competitive compensation package Ground floor opportunity within rapidly growing tech startup Great collaborative team environment Full Benefits Fun perks /n  Location - NYC, Flatiron District /n  We welcome your cover letter with a description of your previous complete experience and your resume. Applicants must be authorized to work in the US as we are unable to sponsor. Kasisto is an equal opportunity employer.",
+            "yearsOfExperience": 2,
+            "stack": ["Vuejs", "React", "HTML"],
+            "jobType": ["Full time","Contract", "Part time"],
+            "remote": true,
+            "date":"Mon, 22 Jul 2013 01:16:44 GMT",
+            "dayPosted": 2,
+            "expired":false,
+            "salary":"90-120k/yr"
+        }
+    ]
+}
