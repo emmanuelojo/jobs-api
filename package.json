@@ -19,5 +19,8 @@
   "dependencies": {
     "heroku": "^7.62.0",
     "json-server": "^0.17.0"
+  },
+  "engines":{
+    "node": "16.15.1"
   }
 }
